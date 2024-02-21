@@ -1,1 +1,94 @@
-
+[
+  {
+    "name": "sb",
+    "value": "VRSSZT1UkNzXJDpQ5dwN2Lnc",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1743083477.152898,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "datr",
+    "value": "VRSSZReZ83ymdyOkE1m-9Qh8",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1738632280.558646,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "wd",
+    "value": "980x1847",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1709128306,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dpr",
+    "value": "2.75",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1709128306,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "c_user",
+    "value": "100024824810953",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1740059477.153427,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "xs",
+    "value": "28%3A2AHPpq8bQdxoAw%3A2%3A1708523474%3A-1%3A11261",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1740059477.153607,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "ps_n",
+    "value": "0",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1743083477.647284,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "ps_l",
+    "value": "0",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1743083477.647688,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "fr",
+    "value": "0uqbNdDOneeJso6hI.AWUiLTJUcObLXsEHIgiXzoMhZBc.BlkhRV.6M.AAA.0.0.Bl1f_r.AWVvmplYuqY",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1716299499.750803,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "presence",
+    "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1708523508656%2C%22v%22%3A1%7D",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true
+  }
+]
